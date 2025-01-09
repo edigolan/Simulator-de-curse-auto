@@ -1,0 +1,3 @@
+﻿  Simulator de cuse auto.cpp
+C:\Users\edigolan\source\repos\Simulator de cuse auto\Simulator de cuse auto\Simulator de cuse auto.cpp(15,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Simulator de cuse auto.vcxproj -> C:\Users\edigolan\source\repos\Simulator de cuse auto\x64\Debug\Simulator de cuse auto.exe
